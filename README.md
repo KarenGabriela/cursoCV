@@ -1,0 +1,2 @@
+# cursoCV
+curso open CV
